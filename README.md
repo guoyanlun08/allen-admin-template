@@ -1,4 +1,6 @@
 # allen-template
+掘金文章地址：
+https://juejin.cn/post/7161648395000479751
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
